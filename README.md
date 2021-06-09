@@ -1,4 +1,4 @@
-# Projetos em PHP
+# Mini projeto - Exibição de mensagens em tempo limite
 
 ## Sobre a Autora
 Oi, eu sou a Fernanda! Estou aqui para contribuir com meu conhecimento e espero poder ajudar no desenvolvimento profissional de cada um de vocês.
@@ -7,6 +7,15 @@ Oi, eu sou a Fernanda! Estou aqui para contribuir com meu conhecimento e espero 
 
 
 ## <br />Descrição
-1. Na pasta "projeto1": é um projeto que exibe mensagens na tela até o programa terminar de rodar, com o objetivo de criar o primeiro projeto no ar. 
+- Passo 1 - Baixe o xampp no caminho: C:
+- Passo 2 - Crie uma pasta no C: -> Dentro da pasta crie uma pasta ‘index.php’
+- Passo 3 - Vá na pasta: xamp-control.exe
+- Passo 4 - No xampp no ‘apache’ clique em ‘config’ - ‘apache (httpd.conf)’ - procure por ‘documentroot’
+
+- Passo 5 - Nas linhas encontradas mude o caminho para o caminho do seu projeto:
+DocumentRoot “C:/nomedapasta”
+<Directory “C:/nomedapasta”>
+
+- Passo 6 - Inicialize o apache - coloque um código dentro
 
 

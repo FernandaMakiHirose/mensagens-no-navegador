@@ -1,16 +1,4 @@
 <html>
-<!--
-- Passo 1 - Baixe o xampp no caminho: C:
-- Passo 2 - Crie uma pasta no C: -> Dentro da pasta crie uma pasta ‘index.php’
-- Passo 3 - Vá na pasta: xamp-control.exe
-- Passo 4 - No xampp no ‘apache’ clique em ‘config’ - ‘apache (httpd.conf)’ - procure por ‘documentroot’
-
-- Passo 5 - Nas linhas encontradas mude o caminho para o caminho do seu projeto:
-DocumentRoot “C:/nomedapasta”
-<Directory “C:/nomedapasta”>
-
-- Passo 6 - Inicialize o apache - coloque um código dentro
--->
     <head>
     <title>Meu primeiro site em PHP!</title>
     <script src="htpps://code.jquery.com/jquery-3.5.1.min.js"></script>
