@@ -1,5 +1,4 @@
-# Mini projeto - Exibição de mensagens em tempo limite
-É um mini projeto onde mensagens irão ser exibidas no navegador em um tempo limite.
+# Mini projeto - Exibir mensagens no navegador em tempo limite
 
 ## Sobre a Autora
 Oi, eu sou a Fernanda! Estou aqui para contribuir com meu conhecimento e espero poder ajudar no desenvolvimento profissional de cada um de vocês.
