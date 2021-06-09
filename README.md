@@ -17,11 +17,6 @@ Passo 5 - Nas linhas encontradas mude o caminho para o caminho do seu projeto:
 DocumentRoot “C:/nomedapasta”
 <Directory “C:/nomedapasta”>
 
-=======
-Passo 5 - Nas linhas encontradas mude o caminho para o caminho do seu projeto:
-DocumentRoot “C:/nomedapasta”
-<Directory “C:/nomedapasta”>
->>>>>>> 309f6b095bf1064bf17cbcfb3daee8207e0ff9ac
-Passo 6 - Inicialize o apache - coloque um código dentro
+Passo 6 - Inicialize o apache e rode o programa
 
 
