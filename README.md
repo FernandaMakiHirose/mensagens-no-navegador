@@ -1,5 +1,4 @@
-# Mini projeto - Exibição de mensagens em tempo limite
-É um mini projeto onde mensagens irão ser exibidas no navegador em um tempo limite.
+# Mini projeto - Exibir mensagens no navegador em tempo limite
 
 ## Sobre a Autora
 Oi, eu sou a Fernanda! Estou aqui para contribuir com meu conhecimento e espero poder ajudar no desenvolvimento profissional de cada um de vocês.
@@ -12,11 +11,17 @@ Passo 1 - Baixe o xampp no caminho: C:
 Passo 2 - Crie uma pasta no C: -> Dentro da pasta crie uma pasta ‘index.php’
 Passo 3 - Vá na pasta: xamp-control.exe
 Passo 4 - No xampp no ‘apache’ clique em ‘config’ - ‘apache (httpd.conf)’ - procure por ‘documentroot’
+<<<<<<< HEAD
 
 Passo 5 - Nas linhas encontradas mude o caminho para o caminho do seu projeto:
 DocumentRoot “C:/nomedapasta”
 <Directory “C:/nomedapasta”>
 
+=======
+Passo 5 - Nas linhas encontradas mude o caminho para o caminho do seu projeto:
+DocumentRoot “C:/nomedapasta”
+<Directory “C:/nomedapasta”>
+>>>>>>> 309f6b095bf1064bf17cbcfb3daee8207e0ff9ac
 Passo 6 - Inicialize o apache - coloque um código dentro
 
 
