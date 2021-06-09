@@ -7,11 +7,10 @@ Oi, eu sou a Fernanda! Estou aqui para contribuir com meu conhecimento e espero 
 
 
 ## <br />Descrição
-Passo 1 - Baixe o xampp no caminho: C:
-Passo 2 - Crie uma pasta no C: -> Dentro da pasta crie uma pasta ‘index.php’
-Passo 3 - Vá na pasta: xamp-control.exe
-Passo 4 - No xampp no ‘apache’ clique em ‘config’ - ‘apache (httpd.conf)’ - procure por ‘documentroot’
-<<<<<<< HEAD
+Passo 1 - Baixe o xampp no caminho: C: <br>
+Passo 2 - Crie uma pasta no C: -> Dentro da pasta crie uma pasta ‘index.php’ <br>
+Passo 3 - Vá na pasta: xamp-control.exe <br>
+Passo 4 - No xampp no ‘apache’ clique em ‘config’ - ‘apache (httpd.conf)’ - procure por ‘documentroot’ <br>
 
 Passo 5 - Nas linhas encontradas mude o caminho para o caminho do seu projeto:
 DocumentRoot “C:/nomedapasta”
