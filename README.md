@@ -1,14 +1,14 @@
 # Exibir mensagens no navegador em tempo limite
-Passo 1 - Baixe o xampp no caminho: C: <br>
-Passo 2 - Crie uma pasta no C: -> Dentro da pasta crie uma pasta ‘index.php’ <br>
-Passo 3 - Vá na pasta: xamp-control.exe <br>
-Passo 4 - No xampp no ‘apache’ clique em ‘config’ - ‘apache (httpd.conf)’ - procure por ‘documentroot’ <br>
+1. Baixe o xampp no caminho: C: <br>
+2. Crie uma pasta no C: -> Dentro da pasta crie uma pasta ‘index.php’ <br>
+3. Vá na pasta: xamp-control.exe <br>
+4. No xampp no ‘apache’ clique em ‘config’ - ‘apache (httpd.conf)’ - procure por ‘documentroot’ <br>
 
-Passo 5 - Nas linhas encontradas mude o caminho para o caminho do seu projeto:
+5. Nas linhas encontradas mude o caminho para o caminho do seu projeto:
 DocumentRoot “C:/nomedapasta”
 <Directory “C:/nomedapasta”>
 
-Passo 6 - Inicialize o apache e rode o programa
+6. Inicialize o apache e rode o programa
 
 ## Sobre a Autora
 Oi, eu sou a Fernanda! Estou aqui para contribuir com meu conhecimento e espero poder ajudar no desenvolvimento profissional de cada um de vocês.
