@@ -4,9 +4,9 @@
 3. Vá na pasta: xamp-control.exe 
 4. No xampp no ‘apache’ clique em ‘config’ - ‘apache (httpd.conf)’ - procure por ‘documentroot’ <br>
 
-5. Nas linhas encontradas mude o caminho para o caminho do seu projeto:
-DocumentRoot “C:/nomedapasta”
-<Directory “C:/nomedapasta”>
+5. Nas linhas encontradas mude o caminho para o caminho do seu projeto: <br>
+DocumentRoot “C:/nomedapasta” <br>
+<Directory “C:/nomedapasta”> <br>
 
 6. Inicialize o apache e rode o programa
 
